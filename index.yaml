@@ -3,6 +3,16 @@ entries:
   vault-cred:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2023-11-22T07:51:41.6829619Z"
+    description: A Helm chart for vault credential management service
+    digest: b95991adad446a042edb3a2717d163d1159b1c270f49a8600290d95a8dcf63f9
+    name: vault-cred
+    type: application
+    urls:
+    - https://github.com/sheril5/vault-cred/releases/download/vault-cred-0.2.4/vault-cred-0.2.4.tgz
+    version: 0.2.4
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2023-11-22T07:46:36.488047638Z"
     description: A Helm chart for vault credential management service
     digest: 960d609a56998900b93f528385d282a5721ced5ba09e02c456783c8f18933e7b
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/sheril5/vault-cred/releases/download/vault-cred-0.2.2/vault-cred-0.2.2.tgz/vault-cred-0.2.2.tgz
     version: 0.2.2
-generated: "2023-11-22T07:46:36.452869531Z"
+generated: "2023-11-22T07:51:41.681621387Z"
