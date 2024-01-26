@@ -1,7 +1,7 @@
 type: Test
 spec:
   id: xZIRCuIIZ
-  name: ML-Servertest
+  name: ML-Server_Test
   trigger:
     type: grpc
     grpc:
